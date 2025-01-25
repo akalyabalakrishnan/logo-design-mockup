@@ -27,3 +27,4 @@ A classic design with serif fonts and a refined emblem.
 Focuses on professionalism and trust.
 Color palette: Muted or monochrome tones with subtle gradients.
 These concepts will emphasize flexibility to ensure the logos resonate in both digital and print mediums while aligning with your brand’s vision
+#OUTPUT OF THE TASK : ![Image](https://github.com/user-attachments/assets/dd441eb6-1c27-4f7a-887a-0fea5c74a866)
